@@ -14,7 +14,7 @@ The **MNIST (Modified National Institute of Standards and Technology)** dataset 
 - **Image Size**: 28x28 pixels (flattened to 784 features)
 - **Labels**: Digits from 0 to 9
 - **Format**: Each image is labeled and cleaned, making it ideal for deep learning beginners
-
+- **Final Accuracy obtained**: 98.3299%
 ---
 
 ## 🧰 Tools & Technologies Used
